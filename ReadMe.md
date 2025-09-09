@@ -16,26 +16,6 @@
 
 Objective: Build a realistic, structured, object-oriented C# console application that allows users to register, log in, shop from a product list, manage a cart, and simulate purchases—all through a clean console interface. Admins have separate access to manage users and products.**
 
-# 🖼️ Pictures
-
-![[99 - Meta/attachments/1.png]]
-
-![[99 - Meta/attachments/2.png]]
-
-![[3.png]]
-
-![[4.png]]
-
-![[5.png]]
-
-![[6.png]]
-
-![[7.png]]
-
-![[8.png]]
-
-![[9.png]]
-
 # _**🔢 Data Types & Structures**_
 
 |Type|Purpose|
