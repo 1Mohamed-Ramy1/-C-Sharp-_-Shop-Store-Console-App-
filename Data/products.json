@@ -1,0 +1,642 @@
+[
+  {
+    "Id": 7,
+    "Name": "Coat Classic",
+    "Category": "Women",
+    "Price": 400.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 5
+      },
+      {
+        "Size": 1,
+        "Quantity": 7
+      },
+      {
+        "Size": 2,
+        "Quantity": 8
+      },
+      {
+        "Size": 3,
+        "Quantity": 6
+      },
+      {
+        "Size": 4,
+        "Quantity": 2
+      },
+      {
+        "Size": 5,
+        "Quantity": 0
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Name": "Hat Winter",
+    "Category": "Kids",
+    "Price": 50.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 10
+      },
+      {
+        "Size": 1,
+        "Quantity": 11
+      },
+      {
+        "Size": 2,
+        "Quantity": 13
+      },
+      {
+        "Size": 3,
+        "Quantity": 7
+      },
+      {
+        "Size": 4,
+        "Quantity": 5
+      },
+      {
+        "Size": 5,
+        "Quantity": 3
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Name": "Vest Cotton",
+    "Category": "Men",
+    "Price": 130.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 11
+      },
+      {
+        "Size": 1,
+        "Quantity": 13
+      },
+      {
+        "Size": 2,
+        "Quantity": 10
+      },
+      {
+        "Size": 3,
+        "Quantity": 7
+      },
+      {
+        "Size": 4,
+        "Quantity": 6
+      },
+      {
+        "Size": 5,
+        "Quantity": 2
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Name": "Romper",
+    "Category": "Kids",
+    "Price": 95.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 5
+      },
+      {
+        "Size": 1,
+        "Quantity": 11
+      },
+      {
+        "Size": 2,
+        "Quantity": 9
+      },
+      {
+        "Size": 3,
+        "Quantity": 6
+      },
+      {
+        "Size": 4,
+        "Quantity": 4
+      },
+      {
+        "Size": 5,
+        "Quantity": 2
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Name": "Leggings",
+    "Category": "Women",
+    "Price": 160.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": -1
+      },
+      {
+        "Size": 1,
+        "Quantity": 10
+      },
+      {
+        "Size": 2,
+        "Quantity": 12
+      },
+      {
+        "Size": 3,
+        "Quantity": 8
+      },
+      {
+        "Size": 4,
+        "Quantity": 4
+      },
+      {
+        "Size": 5,
+        "Quantity": 3
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "Scarf Wool",
+    "Category": "Women",
+    "Price": 70.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 1
+      },
+      {
+        "Size": 1,
+        "Quantity": 7
+      },
+      {
+        "Size": 2,
+        "Quantity": 15
+      },
+      {
+        "Size": 3,
+        "Quantity": 8
+      },
+      {
+        "Size": 4,
+        "Quantity": 3
+      },
+      {
+        "Size": 5,
+        "Quantity": 2
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Shorts",
+    "Category": "Kids",
+    "Price": 90.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 8
+      },
+      {
+        "Size": 1,
+        "Quantity": 16
+      },
+      {
+        "Size": 2,
+        "Quantity": 20
+      },
+      {
+        "Size": 3,
+        "Quantity": 7
+      },
+      {
+        "Size": 4,
+        "Quantity": 6
+      },
+      {
+        "Size": 5,
+        "Quantity": 2
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Name": "Socks Pack",
+    "Category": "Unisex",
+    "Price": 30.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 25
+      },
+      {
+        "Size": 1,
+        "Quantity": 18
+      },
+      {
+        "Size": 2,
+        "Quantity": 30
+      },
+      {
+        "Size": 3,
+        "Quantity": 15
+      },
+      {
+        "Size": 4,
+        "Quantity": 2
+      },
+      {
+        "Size": 5,
+        "Quantity": 5
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Sweatpants",
+    "Category": "Women",
+    "Price": 200.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 10
+      },
+      {
+        "Size": 1,
+        "Quantity": 3
+      },
+      {
+        "Size": 2,
+        "Quantity": 13
+      },
+      {
+        "Size": 3,
+        "Quantity": -2
+      },
+      {
+        "Size": 4,
+        "Quantity": 0
+      },
+      {
+        "Size": 5,
+        "Quantity": 2
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "Name": "Tank Top",
+    "Category": "Men",
+    "Price": 85.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 6
+      },
+      {
+        "Size": 1,
+        "Quantity": 12
+      },
+      {
+        "Size": 2,
+        "Quantity": 11
+      },
+      {
+        "Size": 3,
+        "Quantity": 9
+      },
+      {
+        "Size": 4,
+        "Quantity": 5
+      },
+      {
+        "Size": 5,
+        "Quantity": 0
+      }
+    ]
+  },
+  {
+    "Id": 18,
+    "Name": "Cardigan",
+    "Category": "Women",
+    "Price": 220.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 8
+      },
+      {
+        "Size": 1,
+        "Quantity": 6
+      },
+      {
+        "Size": 2,
+        "Quantity": 9
+      },
+      {
+        "Size": 3,
+        "Quantity": 3
+      },
+      {
+        "Size": 4,
+        "Quantity": 3
+      },
+      {
+        "Size": 5,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Sneakers",
+    "Category": "Kids",
+    "Price": 180.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 8
+      },
+      {
+        "Size": 1,
+        "Quantity": -2
+      },
+      {
+        "Size": 2,
+        "Quantity": 14
+      },
+      {
+        "Size": 3,
+        "Quantity": 14
+      },
+      {
+        "Size": 4,
+        "Quantity": 10
+      },
+      {
+        "Size": 5,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "Name": "Backpack",
+    "Category": "Kids",
+    "Price": 150.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 12
+      },
+      {
+        "Size": 1,
+        "Quantity": 4
+      },
+      {
+        "Size": 2,
+        "Quantity": 8
+      },
+      {
+        "Size": 3,
+        "Quantity": 6
+      },
+      {
+        "Size": 4,
+        "Quantity": 1
+      },
+      {
+        "Size": 5,
+        "Quantity": 2
+      }
+    ]
+  },
+  {
+    "Id": 1,
+    "Name": "T-Shirt Basic",
+    "Category": "Men",
+    "Price": 120.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 0
+      },
+      {
+        "Size": 1,
+        "Quantity": 0
+      },
+      {
+        "Size": 2,
+        "Quantity": 0
+      },
+      {
+        "Size": 3,
+        "Quantity": 0
+      },
+      {
+        "Size": 4,
+        "Quantity": 0
+      },
+      {
+        "Size": 5,
+        "Quantity": 0
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Name": "Sandals",
+    "Category": "Women",
+    "Price": 110.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 6
+      },
+      {
+        "Size": 1,
+        "Quantity": 7
+      },
+      {
+        "Size": 2,
+        "Quantity": 9
+      },
+      {
+        "Size": 3,
+        "Quantity": 4
+      },
+      {
+        "Size": 4,
+        "Quantity": 3
+      },
+      {
+        "Size": 5,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "Cap Stylish",
+    "Category": "Unisex",
+    "Price": 60.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 20
+      },
+      {
+        "Size": 1,
+        "Quantity": 16
+      },
+      {
+        "Size": 2,
+        "Quantity": 22
+      },
+      {
+        "Size": 3,
+        "Quantity": 5
+      },
+      {
+        "Size": 4,
+        "Quantity": 9
+      },
+      {
+        "Size": 5,
+        "Quantity": -5
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Jacket Hoodie",
+    "Category": "Men",
+    "Price": 300.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 0
+      },
+      {
+        "Size": 1,
+        "Quantity": 7
+      },
+      {
+        "Size": 2,
+        "Quantity": 10
+      },
+      {
+        "Size": 3,
+        "Quantity": 2
+      },
+      {
+        "Size": 4,
+        "Quantity": 6
+      },
+      {
+        "Size": 5,
+        "Quantity": -4
+      }
+    ]
+  },
+  {
+    "Id": 20,
+    "Name": "polo",
+    "Category": "Men",
+    "Price": 250.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 100
+      },
+      {
+        "Size": 1,
+        "Quantity": 100
+      },
+      {
+        "Size": 2,
+        "Quantity": 99
+      },
+      {
+        "Size": 3,
+        "Quantity": 100
+      },
+      {
+        "Size": 4,
+        "Quantity": -2
+      },
+      {
+        "Size": 5,
+        "Quantity": 100
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Dress Summer",
+    "Category": "Women",
+    "Price": 250.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": -3
+      },
+      {
+        "Size": 1,
+        "Quantity": 3
+      },
+      {
+        "Size": 2,
+        "Quantity": 13
+      },
+      {
+        "Size": 3,
+        "Quantity": -1
+      },
+      {
+        "Size": 4,
+        "Quantity": 1
+      },
+      {
+        "Size": 5,
+        "Quantity": -1
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "Boots Winter",
+    "Category": "Men",
+    "Price": 350.0,
+    "Sizes": [
+      {
+        "Size": 0,
+        "Quantity": 2
+      },
+      {
+        "Size": 1,
+        "Quantity": 8
+      },
+      {
+        "Size": 2,
+        "Quantity": 10
+      },
+      {
+        "Size": 3,
+        "Quantity": 3
+      },
+      {
+        "Size": 4,
+        "Quantity": -4
+      },
+      {
+        "Size": 5,
+        "Quantity": 1
+      }
+    ]
+  }
+]

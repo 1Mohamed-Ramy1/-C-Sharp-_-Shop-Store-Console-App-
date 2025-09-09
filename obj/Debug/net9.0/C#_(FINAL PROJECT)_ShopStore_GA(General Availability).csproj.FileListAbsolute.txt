@@ -1,0 +1,78 @@
+C:\Users\moham\OneDrive\Desktop\abst\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\abst\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\abst\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\abst\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\abst\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).exe
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).deps.json
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).dll
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).pdb
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\Spectre.Console.dll
+C:\Users\moham\OneDrive\Desktop\abst\obj\Debug\net9.0\C#_(FINA.5CEDFE35.Up2Date
+C:\Users\moham\OneDrive\Desktop\abst\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).dll
+C:\Users\moham\OneDrive\Desktop\abst\obj\Debug\net9.0\refint\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).dll
+C:\Users\moham\OneDrive\Desktop\abst\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).pdb
+C:\Users\moham\OneDrive\Desktop\abst\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\abst\obj\Debug\net9.0\ref\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).dll
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\NAudio.dll
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\NAudio.Asio.dll
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\NAudio.Core.dll
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\NAudio.Midi.dll
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\NAudio.Wasapi.dll
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\NAudio.WinMM.dll
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\moham\OneDrive\Desktop\abst\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).exe
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).deps.json
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).runtimeconfig.json
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).dll
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).pdb
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\NAudio.dll
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\NAudio.Asio.dll
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\NAudio.Core.dll
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\NAudio.Midi.dll
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\NAudio.Wasapi.dll
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\NAudio.WinMM.dll
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\Spectre.Console.dll
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).csproj.AssemblyReference.cache
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).AssemblyInfoInputs.cache
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).AssemblyInfo.cs
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).csproj.CoreCompileInputs.cache
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINA.5CEDFE35.Up2Date
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).dll
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\refint\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).dll
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).pdb
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).genruntimeconfig.cache
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\ref\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).dll
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).exe
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).deps.json
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).runtimeconfig.json
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).dll
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).pdb
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\NAudio.dll
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\NAudio.Asio.dll
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\NAudio.Core.dll
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\NAudio.Midi.dll
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\NAudio.Wasapi.dll
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\NAudio.WinMM.dll
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\Spectre.Console.dll
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\C#\Final-Project_Shop\C#_Final-Project\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+D:\C#\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).csproj.AssemblyReference.cache
+D:\C#\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).AssemblyInfoInputs.cache
+D:\C#\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).AssemblyInfo.cs
+D:\C#\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).csproj.CoreCompileInputs.cache
+D:\C#\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINA.5CEDFE35.Up2Date
+D:\C#\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).dll
+D:\C#\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\refint\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).dll
+D:\C#\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).pdb
+D:\C#\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).genruntimeconfig.cache
+D:\C#\Final-Project_Shop\C#_Final-Project\obj\Debug\net9.0\ref\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).dll

@@ -1,0 +1,2 @@
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\publish\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).pdb
+D:\C#_TRACK\Final-Project_Shop\C#_Final-Project\publish\C#_(FINAL PROJECT)_ShopStore_GA(General Availability).exe

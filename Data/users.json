@@ -1,0 +1,114 @@
+[
+  {
+    "Id": 0,
+    "Username": "YT",
+    "Email": "elostora@gmail.com",
+    "Password": "yt",
+    "IsAdmin": true,
+    "IsWarned": false
+  },
+  {
+    "Id": 1,
+    "Username": "medo",
+    "Email": "moo@gmail.com",
+    "Password": "2",
+    "IsAdmin": false,
+    "IsWarned": true
+  },
+  {
+    "Id": 2,
+    "Username": "so",
+    "Email": "so@gmail.com",
+    "Password": "1",
+    "IsAdmin": false,
+    "IsWarned": false
+  },
+  {
+    "Id": 3,
+    "Username": "abood",
+    "Email": "aa@gmail.com",
+    "Password": "12345678",
+    "IsAdmin": false,
+    "IsWarned": false
+  },
+  {
+    "Id": 6,
+    "Username": "yahia",
+    "Email": "yaya@gmail.com",
+    "Password": "882005",
+    "IsAdmin": false,
+    "IsWarned": false
+  },
+  {
+    "Id": 7,
+    "Username": "meme",
+    "Email": "me@gmail.com",
+    "Password": "32",
+    "IsAdmin": false,
+    "IsWarned": false
+  },
+  {
+    "Id": 8,
+    "Username": "mar",
+    "Email": "mar@gmail.com",
+    "Password": "12345678",
+    "IsAdmin": false,
+    "IsWarned": false
+  },
+  {
+    "Id": 9,
+    "Username": "maaaaa",
+    "Email": "sasa@gmail.com",
+    "Password": "123",
+    "IsAdmin": false,
+    "IsWarned": false
+  },
+  {
+    "Id": 10,
+    "Username": "you",
+    "Email": "you@gmail.com",
+    "Password": "123",
+    "IsAdmin": false,
+    "IsWarned": false
+  },
+  {
+    "Id": 10,
+    "Username": "soso",
+    "Email": "soso@gmail.com",
+    "Password": "Soso@2020",
+    "IsAdmin": false,
+    "IsWarned": false
+  },
+  {
+    "Id": 11,
+    "Username": "medo",
+    "Email": "medo@gmail.com",
+    "Password": "Medo2345",
+    "IsAdmin": false,
+    "IsWarned": false
+  },
+  {
+    "Id": 12,
+    "Username": "ahmed",
+    "Email": "ahmed@gmail.com",
+    "Password": "Ahmed111213",
+    "IsAdmin": false,
+    "IsWarned": false
+  },
+  {
+    "Id": 13,
+    "Username": "salah felo",
+    "Email": "salah@gmail.com",
+    "Password": "01128063171Ss",
+    "IsAdmin": false,
+    "IsWarned": false
+  },
+  {
+    "Id": 13,
+    "Username": "mohamed",
+    "Email": "oop@gmail.com",
+    "Password": "Yt123456",
+    "IsAdmin": false,
+    "IsWarned": false
+  }
+]
